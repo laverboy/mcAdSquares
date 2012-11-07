@@ -237,13 +237,3 @@ function mcads_check_if_too_many_images() {
     }
 
 }
-
-
-// **** TODO ****
-// ==============
-//
-// drag drop to reorded
-//
-//
-// add display code and shortcode?
-//
